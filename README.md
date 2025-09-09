@@ -7,7 +7,9 @@
 ---
 
 ### 👨‍💻 About Me  
-**Cloud & Software Engineer** building scalable systems in the cloud and leveraging **AI & automation** to solve real-world problems.  
+I’m **Fortune Linus**, a Cloud & Software Engineer passionate about building scalable systems and leveraging AI & automation to solve real-world problems. My work spans across AWS, Azure, and GCP, where I design data pipelines, secure cloud architectures, and containerized applications.
+
+Beyond the cloud, I enjoy exploring new AI use cases, optimizing workflows with DevOps practices, and turning ideas into production-ready solutions.  
 
 ---
 

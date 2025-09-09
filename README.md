@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Current Projects
-- **Crypto Analytics ETL Pipeline** – Real-time crypto insights using AWS (S3, DynamoDB, Athena, QuickSight) & Terraform  
+- [**Crypto Analytics ETL Pipeline**](https://github.com/Dfortune014/Crypto-ETL-Pipeline) – Real-time crypto insights using AWS (S3, DynamoDB, Athena, QuickSight) & Terraform  
 - **LegalPocket-LLM** – Currently Fine tuning an open source model on U.S. laws and court cases to build a legal AI assistant.
 - **RainCheckr** – Smart scheduling assistant that combines weather data, Google Calendar, and NLP for better meeting planning  
 

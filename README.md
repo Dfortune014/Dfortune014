@@ -15,7 +15,7 @@ Beyond the cloud, I enjoy exploring new AI use cases, optimizing workflows with 
 
 ### 🚀 Current Projects
 - [**Crypto Analytics ETL Pipeline**](https://github.com/Dfortune014/Crypto-ETL-Pipeline) – Real-time crypto insights using AWS (S3, DynamoDB, Athena, QuickSight) & Terraform  
-- **LegalPocket-LLM** – Currently Fine tuning an open source model on U.S. laws and court cases to build a legal AI assistant.
+- **VisaWise.ai** – Currently Fine tuning an open source model on U.S. immigration laws and court cases to build a legal AI assistant for immigrants supproted in both English and Spanish.
 - **RainCheckr** – Smart scheduling assistant that combines weather data, Google Calendar, and NLP for better meeting planning  
 
 ---

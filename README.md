@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Hi,+I'm+Fortune+👋&fontSize=40&fontColor=ffffff&desc=Cloud+Engineer+|+AI Engineer+&+Automation&descAlignY=75&descAlign=50&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Hi,+I'm+Fortune+👋&fontSize=40&fontColor=ffffff&desc=Cloud+Engineer+|+AI+&+Automation&descAlignY=75&descAlign=50&reversal=true" width="100%"/>
 </p>
 
 
